@@ -1,0 +1,22 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Node that creates a read me based off of informtion given",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axumdzn/README_generator.git"
+  },
+  "author": "Kenneth Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axumdzn/README_generator/issues"
+  },
+  "homepage": "https://github.com/axumdzn/README_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
