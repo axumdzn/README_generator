@@ -9,8 +9,9 @@
 ## Installation
 Copy files and run in terminal
 ## Usage
+(https://youtu.be/4SlTzaqX5i8)
 ![screenshot](images/terminal.png)
-![readme]()
+![readme](images/readme.png)
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) (https://opensource.org/licenses/MIT)
 ## How to Contribute
